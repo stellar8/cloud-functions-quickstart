@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4, // can override on a per-language basis below
+    "eslint.format.enable": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
