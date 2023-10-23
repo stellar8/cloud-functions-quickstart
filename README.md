@@ -2,11 +2,7 @@
 
 ## Using This Quickstart
 
-To start, clone this repository:
-
-```bash
-git clone [REPO_URL]
-```
+To start, [use this repository as a template](https://github.com/stellar8/cloud-functions-quickstart/generate) to create a new repository.
 
 All code uses TypeScript.
 
